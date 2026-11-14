@@ -1,0 +1,7 @@
+classDiagram
+  class Viewer {
+    +open(file)
+    +close()
+  }
+  Viewer <|-- HtmlViewer
+  Viewer <|-- CsvViewer
