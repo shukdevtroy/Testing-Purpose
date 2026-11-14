@@ -1,0 +1,6 @@
+name: gitkit
+version: 1.0
+features:
+  - preview
+  - tables
+debug: false

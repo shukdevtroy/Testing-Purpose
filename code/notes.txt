@@ -1,0 +1,2 @@
+Plain text file: shows line numbers but no colours.
+Second line.
