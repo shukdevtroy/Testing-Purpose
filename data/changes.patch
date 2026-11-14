@@ -1,0 +1,24 @@
+From: Test User <test@example.com>
+Subject: [PATCH] Update greeting and add file
+
+diff --git a/hello.py b/hello.py
+index 3b18e51..a1c2d44 100644
+--- a/hello.py
++++ b/hello.py
+@@ -1,6 +1,7 @@
+ import sys
+ 
+ def greet(name):
+-    print("Hello " + name)
++    message = f"Hello, {name}!"
++    print(message)
+ 
+ greet(sys.argv[1])
+diff --git a/notes.md b/notes.md
+new file mode 100644
+index 0000000..e69de29
+--- /dev/null
++++ b/notes.md
+@@ -0,0 +1,2 @@
++# Notes
++Added a new file.

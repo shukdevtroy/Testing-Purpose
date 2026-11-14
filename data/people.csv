@@ -1,0 +1,8 @@
+id,name,age,city,bio
+1,"Smith, John",34,London,"Likes ""quotes"""
+2,Ana Lopez,28,Madrid,"Line one
+line two"
+3,Bob Chen,45,Singapore,Hello
+4,Cleo Dube,19,Nairobi,
+5,Dmitri Ivanov,100,Moscow,Oldest
+6,Eve Okafor,5,Lagos,Youngest

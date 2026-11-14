@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "name": "Dhaka" }, "geometry": { "type": "Point", "coordinates": [90.4125, 23.8103] } },
+    { "type": "Feature", "properties": { "name": "Route" }, "geometry": { "type": "LineString", "coordinates": [[90.4, 23.8], [90.5, 23.9]] } }
+  ]
+}

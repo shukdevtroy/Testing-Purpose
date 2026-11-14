@@ -1,0 +1,3 @@
+{"event":"login","user":"ana","ok":true}
+{"event":"upload","user":"bob","size":2048}
+{"event":"logout","user":"ana"}
